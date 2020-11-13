@@ -79,7 +79,10 @@ body {
   height: 60%;
   list-style: none;
   padding-left: 0;
-  overflow-y: scroll hidden;
+  overflow-y: scroll;
+}
+.items::-webkit-scrollbar {
+  display: none;
 }
 
 .item {

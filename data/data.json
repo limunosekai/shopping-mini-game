@@ -5,14 +5,14 @@
       "gender": "female",
       "size": "large",
       "color": "pink",
-      "image": "img/pink_t.png"
+      "image": "./img/pink_t.png"
     },
     {
       "type": "pants",
       "gender": "male",
       "size": "small",
       "color": "blue",
-      "image": "img/blue_p.png"
+      "image": "./img/blue_p.png"
     },
     {
       "type": "pants",
